@@ -1,5 +1,9 @@
 # Restrooms ToGo!
 
+## Team
+
+Name: Meili Liang
+
 ## Project Title
 
 **Restrooms ToGo!**  
